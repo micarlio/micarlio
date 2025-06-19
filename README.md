@@ -1,4 +1,4 @@
-# Something amazing is being prepared..
+## Something amazing is being prepared.
 
 ---
 
@@ -10,4 +10,3 @@
   <code>Python</code> • <code>Dados</code> • <code>AI</code>
 </p>
 
----
