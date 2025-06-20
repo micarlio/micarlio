@@ -7,13 +7,9 @@ Hello, I'm Micarlo. [coming soon]
 * Developing dashboards on Tableau and Looker Studio.
 * Data analysis and reporting using Google Sheets and Excel.
 
----
-
 ### 📚 Projects
 
 Welcome to my portfolio, where I showcase my [projects](coming soon).
-
----
 
 ### 🛠️ Tools
 
@@ -21,13 +17,9 @@ Welcome to my portfolio, where I showcase my [projects](coming soon).
 * **Database:** Google BigQuery, PostgreSQL, MySQL
 * **Visualization:** Tableau, Looker Studio, Dash - Plotly
 
----
-
 ### 👋 Connect with Me
 
 * [LinkedIn](coming soon)
 * [Hire me on Upwork](coming soon)
-
----
 
 **Contact:** micarlio_ds@gmail.com | [GitHub](https://github.com/micarlio)
