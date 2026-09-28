@@ -1,0 +1,7 @@
+# Profile assets
+
+- `logos/ufrn.png` and `logos/inovai.png` are profile logo assets based on files from the [InovAI Lab presentation template](https://github.com/micarlio/LANCE-INOVAILAB/tree/60eeb5ecde9914c98970a76fe5d3fdd0c78f3170/projects/template-apresentacoes-inovailab/recursos/identidade). The InovAI Lab logo is kept as supplied.
+- `logos/lance.png` is based on the logo supplied for this profile.
+- `icons/docker.svg`, `icons/fastapi.svg`, `icons/git.svg`, `icons/jupyter.svg`, `icons/numpy.svg`, `icons/pandas.svg`, `icons/plotly.svg`, `icons/python.svg`, `icons/pytorch.svg`, `icons/scikitlearn.svg`, and `icons/tensorflow.svg` use assets from [Devicon](https://github.com/devicons/devicon/tree/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons), at commit `7330accdbc47e2dc0c19789a48533c4a3c50fe58`. The MIT license is included in [`icons/LICENSE.devicon`](icons/LICENSE.devicon).
+- `icons/dvc.svg`, `icons/huggingface.svg`, `icons/langchain.svg`, `icons/mlflow.svg`, and `icons/wandb.svg` use icon paths from [Simple Icons](https://github.com/simple-icons/simple-icons/tree/d4e6ba93e48f178898707f0145ec285f28b64b38), at commit `d4e6ba93e48f178898707f0145ec285f28b64b38`. Their fills are set for this profile. Simple Icons is licensed under CC0 1.0; see [`icons/LICENSE.simple-icons`](icons/LICENSE.simple-icons).
+- `banner.png`, `profile-banner-light.svg`, and `profile-banner-dark.svg` are illustrations created for this profile.
